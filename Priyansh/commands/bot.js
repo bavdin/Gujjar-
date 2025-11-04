@@ -248,7 +248,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     var msg = {
       body: `╠═🌸${name}🌸=╣,                    ❤❤❤                                                                                                                                      ${rand}                                        
 
-           *『𝗖𝗿𝗲𝗱𝗶𝘁'𝘀』‎‎『𖣴❰❰𝐉𝐀𝐍𝐍𝐀𝐓ː͢ː❱❱𖣴』
+           *『𝗖𝗿𝗲𝗱𝗶𝘁'𝘀』‎‎『𖣴❰❰FAIZANː͢ː❱❱𖣴』
     }
     return api.sendMessage(msg, threadID, messageID);
   };
